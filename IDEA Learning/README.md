@@ -30,3 +30,22 @@
    Settings - Editor - General - Use soft wraps in editor
 
 ## 3-1 Effective code editing skills
+1. 复制  
+   + 复制一行：光标放任意位置，Ctrl+C  
+   + 点击左侧文件名，Ctrl+C 复制文件名  
+   + 复制历史：Ctrl+Shift+V，双击记录后，可在当前光标处粘贴（保留5个历史）
+2. 普通粘贴和简单粘贴
+   + 普通粘贴（Ctrl+V）后，会自动格式化
+   + (2019.2 version) 右键，Paste without Formatting (Ctrl+Alt+Shift+V 不需要记)，简单粘贴，不会格式化，但是会保留空格
+   + Alt+鼠标左键并拖动：纵向选择多行文本
+3. 格式化代码
+   + Ctrl+A：全选；Ctrl+Alt+L：格式化
+4. 剪切和复制一行或多行
+   + Ctrl+X：剪切光标所在行，可以当删除用（不需要选中）
+   + Ctrl+D：复制光标所在行
+5. 上下移动一行或多行
+   + Alt+Shift+上/下：当前行向上/下移动一行
+   + Shift+上，选中两行；Alt+Shift+上/下移动
+## 3-2 Quick Jump
+1. 行内跳转和选中
+2. 
