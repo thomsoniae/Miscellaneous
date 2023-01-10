@@ -48,4 +48,37 @@
    + Shift+上，选中两行；Alt+Shift+上/下移动
 ## 3-2 Quick Jump
 1. 行内跳转和选中
-2. 
+   + Home 键跳到行首，End 键跳到行尾 
+   + Ctrl+左/右：跳过一个词
+   + Ctrl+Shift+左/右：选中一个词 
+2. 根据行号定位
+   + Ctrl+G：跳到指定行
+3. tabs 快速切换
+   + Alt+左/右：左/右切换Tabs
+4. 查看浏览过的文件
+   + Ctrl+E：查看浏览过的文件列表
+5. 快速打开文件所在文件夹
+   + 右键-Show In Explorer：打开文件/类所在的文件夹
+   + 提醒：项目路径不要带中文
+6. 导航栏文件切换
+   + 双击 tab 可以全屏，上方导航栏可以点开其他文件
+## 3-3 Quick Find and Replace
+1. 内容查找和替换
+   + Ctrl+F：当前文件查找
+   + Ctrl+R：当前文件替换
+   + Ctrl+Shift+F：全局查找
+   + Ctrl+Shift+R：全局替换
+   + 光标定位到日志窗口，Ctrl+F：日志内容查找
+2. 查找文件
+   + Ctrl+Shift+N：按文件名查找文件
+3. 查找操作和菜单
+   + Ctrl+Shift+A：查找所有的菜单或操作
+   + 或者点击上方 Help - Find Action...
+4. 万能查找
+   + 连按两次 Shift：查找文件、菜单、操作等，但不能查找文件内容
+5. 2019.2 版本
+   + 以上操作合并到同一个窗口，连按两次 Shift 即可
+
+## 3-4 Universal Shortcut Keys Alt_Enter
+Alt+Enter：智能辅助提示。给出的提示与当前光标所在的位置有关系。
+1. 见到红色报错就按
